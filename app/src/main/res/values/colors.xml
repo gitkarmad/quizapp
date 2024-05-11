@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#673AB7</color>
+    <color name="button_next">#FF6200EE</color>
+    <color name="button_show_result">#4CAF50</color>
+    <color name="button_background">#6200EE</color> <!-- Purple 500 from Material Design -->
+</resources>
